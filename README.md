@@ -113,8 +113,8 @@ tushar@github:~$ tail -f learning.log
 tushar@github:~$ ping tushar --connect
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-lokhande-a4b85518a)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tlokhande00@gmail.com)
 
 ```bash
 PING tushar: 64 bytes, response="Open to full stack, DevOps and cloud roles. Let's talk!"
